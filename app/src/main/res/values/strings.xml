@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lista Interrogazioni</string>
+
+    <string name="titolo">Lista Interrogazioni</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_salva">Salva</string>
+    <string name="action_carica">Carica</string>
+    <string name="action_listeSalvate">Liste Salvate</string>
+    <string name="numero_studenti">Numero di Studenti:</string>
+    <string name="vuoto"/>
+    <string name="title_activity_saved_list">Liste Salvate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="genera">Genera</string>
+    <string name="elenco">Elenco:</string>
+    <string name="nome_lista">New Text</string>
+    <string name="stringabottone">X</string>
+    <string name="title_activity_dettaglio">Dettaglio</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/Salva" android:title="@string/action_salva"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:onClick="salva"/>
+    <!--<item android:id="@+id/Carica" android:title="@string/action_carica"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:onClick="carica"/>-->
+    <item android:id="@+id/listeSalvate" android:title="@string/action_listeSalvate"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:onClick="listeSalvate"/>
+
+</menu>
